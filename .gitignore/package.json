@@ -1,0 +1,26 @@
+{
+  "name": "LastBot",
+  "version": "13.0.0",
+  "description": "Bot multifonction",
+  "main": "index.js",
+  "dependencies": {
+    "date-and-time": "^0.6.3",
+    "discord-anti-spam": "^2.0.0",
+    "discord-auto-role": "^1.2.1",
+    "discord-moderator-bot": "^1.1.0",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "fs": "0.0.1-security",
+    "languages": "^0.1.3",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "opusscript": "0.0.6",
+    "rainbow-role": "^0.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S",
+  "license": "ISC"
+}
