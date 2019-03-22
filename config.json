@@ -1,0 +1,43 @@
+{
+
+    "token": "NTU4NjgzMDk0MTk0ODQ3Nzk0.D3aeOA.lxQIHAB_lzvrfp6dTzI4trm-Quo",
+
+    "prefix": "$",
+
+    "rainbowdelay": 600,
+
+    "rainbowcommand": "rainbowon",
+
+    "rainbowstop": "rainbowstop",
+
+    "rainbowrole": [
+
+        "#9400D3",
+
+        "#4B0082",
+
+        "#0000FF",
+
+        "#00FF00",
+
+        "#FFFF00",
+
+        "#FF7F00",
+
+        "#FF0000"
+
+    ],
+
+    "messageresponse": {
+
+        "missingperm": "**Mes permissions sont insuffisantes !!** :warning:",
+
+        "success": "**Rainbow activé !**",
+
+        "rainbowstop": "**Rainbow désactivé !**",
+
+        "rolenotfound": "**Merci de bien vouloir mentionner un rôle !!**"
+
+    }
+
+}
